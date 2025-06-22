@@ -2,4 +2,4 @@
 This is my first Git repository.
 <br>
 Auther_ Fatima kabeer.
-tthis is a error line.
+This is a error line.
